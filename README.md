@@ -16,7 +16,6 @@
   </p>
 
   <p>
-    <a href="https://www.google.com.eg/search?q=YouseefEprahem"> <!-- Google Me -->
       <img src="https://komarev.com/ghpvc/?username=YouseefEprahem&style=flat&color=3010A0" style="height:30px; object-fit:contain;"/></a>
   </p>
 
@@ -44,15 +43,13 @@
   </p>
 
 ### 🏆 GitHub Trophies
-  <p align="left">
+ <p align="left">
   
 ![trophy](https://github-profile-trophy-ahmed.vercel.app/?username=yousefIbrahem-1&theme=onestar&no-bg=true&no-frame=true&row=1&column=7)
 
 <br>
 
   <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yousefIbrahem-1&layout=compact&langs_count=6&theme=highcontrast" height="125"/> &nbsp;
-    <img src="https://streak-stats.demolab.com/?user=yousefIbrahem-1&theme=highcontrast" height="125"/>
+    <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=a-hemeda&layout=compact&langs_count=6&theme=highcontrast" height="125"/> &nbsp;
+    <img src="https://streak-stats.demolab.com/?user=a-hemeda&theme=highcontrast" height="125"/> -->
   </p>
-
-![Snake Animation](https://github.com/yousefIbrahem-1/yousefIbrahem-1/blob/output/snake-dark.svg)
