@@ -54,4 +54,8 @@
     <img src="https://streak-stats.demolab.com/?user=a-hemeda&theme=highcontrast" height="125"/> -->
   </p>
 
-  <img src="https://raw.githubusercontent.com/yousefIbrahem-1/yousefIbrahem-1/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  ### 🧩 Contributions
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/yousefIbrahem-1/yousefIbrahem-1/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</div>
