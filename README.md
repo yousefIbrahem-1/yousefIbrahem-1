@@ -54,6 +54,21 @@
     <img src="https://streak-stats.demolab.com/?user=a-hemeda&theme=highcontrast" height="125"/> -->
   </p>
 
+<div align="center">
+
+<a href="https://github.com/yousefIbrahem-1">
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yousefIbrahem-1&show_icons=true&theme=dark&hide_border=true&count_private=false" />
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yousefIbrahem-1&layout=compact&theme=dark&hide_border=true" />
+</a>
+
+<br><br>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=yousefIbrahem-1&theme=dark&hide_border=true" alt="Streak Stats" />
+
+<img src="https://github-contributor-stats.vercel.app/api?username=yousefIbrahem-1&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
+
+</div>
+
   ### 🧩 Contributions
 
 <div align="center">
